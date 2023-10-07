@@ -8,6 +8,32 @@ Check git version :- git --version
 
 Branch :- A series of Code Changes in a branch .
 
+cd :- Change Directory
+
+pwd :- Current Path
+
+git init :- Initilized empty git repo in that location
+
+git clone (url) :- to get a clone of repo in your local pc
+
+ls :- List all the files from tha folder
+
+git status :- It shows all code changes which we have done 
+
+commit :- means when u have done code changes and u want to lock it 
+
+git diff (filename) :- To check the changes u have done in that file
+
+staging & Unstaging area :- To commit a code change , its should have to be in staging area .
+
+git add . or (file name) :- To add in a staging area.
+
+git log :- To check all previous commits
+
+
+git log (no) :- To check specified no of commits 
+
+git show (commit id) :- to see changes in that commit using particular commit id .
 
 
 
