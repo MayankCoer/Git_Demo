@@ -36,7 +36,7 @@ pwd :- Current Path
 
 13. git checkout -b (newbranch) :- For creating a new branch from main branch
 
-14. git delete -d (branchname) :- To delete a branch 
+14. git branch -d (branchname) :- To delete a branch 
 
 15. git checkout (branch name) :- To switch a branch 
 
