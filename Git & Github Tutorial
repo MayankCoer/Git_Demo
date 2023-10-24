@@ -56,7 +56,7 @@ pwd :- Current Path
 
 23. SAVE :- esc + wq then enter 
 
-24. git remote add origin (url) :- To push first time 
+24. git remote add origin (url) :- To push first time in your repo
 
 
 
